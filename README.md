@@ -37,8 +37,6 @@ Desenvolvida para treinar habilidades de front-end e criar um projeto visualment
 
 (https://github.com/JacksonTsantos/to-do-list-espacial/assets/your-image-link-here)
 
-*(Adicione uma imagem da sua tela do projeto aqui — posso te ajudar a gerar uma prévia bonitinha.)*
-
 ---
 
 ## 💡 Como usar localmente
